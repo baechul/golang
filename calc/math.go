@@ -5,7 +5,7 @@ package calc
 // 	return i + j
 // }
 
-// Add ...
+// Add no need to explain
 func Add(numbers ...int) int {
 	sum := 0
 	for i:=0; i<len(numbers); i++ {
