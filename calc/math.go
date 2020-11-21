@@ -3,6 +3,7 @@ package calc
 
 import "errors"
 
+// Add no need to explain.
 func Add(numbers ...int) (int, error) {
 	sum := 0
 
